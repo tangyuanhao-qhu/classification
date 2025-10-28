@@ -95,6 +95,7 @@ python train.py --dataset AID --batch_size 32 --epochs 500
 ##  🎯Model Visualizations (CAM)
 These figures visualize where AFM-Net focuses on each scene using Class Activation Maps (CAM).
 
+<!-- 
 ## 📖 Citation 
 If you use AFM-Net in your research, please cite our paper:
 ```bibtex
@@ -104,6 +105,7 @@ If you use AFM-Net in your research, please cite our paper:
   journal={arXiv preprint arXiv:XXXX.XXXXX},
   year={2025}
 }
+-->
 ```
 
 
