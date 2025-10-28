@@ -28,7 +28,7 @@ Extensive experiments show AFM-Net achieves state-of-the-art performance on AID,
 ##  📐 Model Architecture
 
 <p align="center">
-  <img src="docs/fig1.pdf" alt="AFM-Net Architecture" width="700"/>
+  <img src="docs/fig1.png" alt="AFM-Net Architecture" width="700"/>
 </p>
 
 ## ⚙️Installation 
