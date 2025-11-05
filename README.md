@@ -6,11 +6,10 @@
 <h1 align="center">AFM-Net: Advanced Fusion Model Network</h1>
 
 ---
-
 ![License](https://img.shields.io/badge/License-MIT-blue)
 ![Python Version](https://img.shields.io/badge/Python-3.8%2B-green)
 ![PyTorch Version](https://img.shields.io/badge/PyTorch-1.12%2B-orange)
-
+[![arXiv](https://img.shields.io/badge/arXiv-2510.27155-b31b1b.svg)](https://doi.org/10.48550/arXiv.2510.27155)
 ---
 
 ##  🔍 Introduction 
