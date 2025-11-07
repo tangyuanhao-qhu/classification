@@ -10,6 +10,7 @@
 ![Python Version](https://img.shields.io/badge/Python-3.8%2B-green)
 ![PyTorch Version](https://img.shields.io/badge/PyTorch-1.12%2B-orange)
 [![arXiv](https://img.shields.io/badge/arXiv-2510.27155-b31b1b.svg)](https://doi.org/10.48550/arXiv.2510.27155)
+[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-AFM--Net-yellow)](https://huggingface.co/Yuannnn-tyh/AFM-Net/)
 ---
 
 ##  🔍 Introduction 
