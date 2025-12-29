@@ -33,7 +33,10 @@ Extensive experiments show AFM-Net achieves state-of-the-art performance on AID,
 ##  📐 Model Architecture
 
 <p align="center">
-  <img src="docs/fig1.pdf" alt="AFM-Net Architecture" width="700"/>
+  <!-- 点击图片会跳转/下载 fig1.pdf -->
+  <a href="docs/fig1.pdf">
+    <img src="docs/fig1.png" alt="AFM-Net Architecture" width="700"/>
+  </a>
 </p>
 
 ## ⚙️Installation 
