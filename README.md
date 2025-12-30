@@ -41,13 +41,13 @@ Extensive experiments show AFM-Net achieves state-of-the-art performance on AID,
 ## ⚙️Installation 
 ### 1.Clone this repository:
 ```bash
-git clone https://github.com/tangyuanhao-qhu/AFM-Net.git
-cd AFM-Net
+git clone https://github.com/tangyuanhao-qhu/classification.git
+cd classification
 ```
 ### 2.Create a Python virtual environment and install dependencies:
 ```bash
-conda create -n afm-net python=3.8 -y
-conda activate afm-net
+conda create -n class python=3.8 -y
+conda activate class
 pip install -r requirements.txt
 ```
 ### 3.Prepare datasets
