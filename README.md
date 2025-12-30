@@ -3,7 +3,6 @@
   <img src="docs/logo1.png" alt="AFM-Net Logo" width="600"/>
 </p>
 
-<h1 align="center">AFM-Net: Advanced Fusion Model Network</h1>
 
 <p align="center">
 
