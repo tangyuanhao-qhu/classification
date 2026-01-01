@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/arXiv-2510.27155-b31b1b.svg" alt="arXiv">
   </a>
   <a href="https://huggingface.co/Yuannnn-tyh/AFM-Net/">
-    <img src="https://img.shields.io/badge/🤗%20Hugging%20Faceyellow" alt="Hugging Face">
+    <img src="https://img.shields.io/badge/🤗%20Hugging%20Face-yellow" alt="Hugging Face">
   </a>
 
 </p>
