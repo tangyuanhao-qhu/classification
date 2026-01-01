@@ -9,9 +9,9 @@
   <img src="https://img.shields.io/badge/License-MIT-blue" alt="License">
   <img src="https://img.shields.io/badge/Python-3.8%2B-green" alt="Python Version">
   <img src="https://img.shields.io/badge/PyTorch-1.12%2B-orange" alt="PyTorch Version">
-  <a href="https://doi.org/10.48550/arXiv.2510.27155">
+  <!-- <a href="https://doi.org/10.48550/arXiv.2510.27155">
     <img src="https://img.shields.io/badge/arXiv-2510.27155-b31b1b.svg" alt="arXiv">
-  </a>
+  </a> -->
   <a href="https://huggingface.co/Jamtang/classification">
     <img src="https://img.shields.io/badge/🤗%20Hugging%20Face-yellow" alt="Hugging Face">
   </a>
