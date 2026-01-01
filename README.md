@@ -12,7 +12,7 @@
   <a href="https://doi.org/10.48550/arXiv.2510.27155">
     <img src="https://img.shields.io/badge/arXiv-2510.27155-b31b1b.svg" alt="arXiv">
   </a>
-  <a href="https://huggingface.co/Yuannnn-tyh/AFM-Net/">
+  <a href="https://huggingface.co/Jamtang/classification">
     <img src="https://img.shields.io/badge/🤗%20Hugging%20Face-yellow" alt="Hugging Face">
   </a>
 
