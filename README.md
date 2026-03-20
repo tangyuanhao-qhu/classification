@@ -50,9 +50,11 @@ conda create -n class python=3.8 -y
 conda activate class
 pip install -r requirements.txt
 ```
-### 3.Prepare datasets
-The expected folder structure for AID dataset is as follows:
-```
+### 3. Prepare datasets
+
+The datasets should be organized in a class-wise folder structure. For example, the expected folder structure for the AID dataset is:
+
+```text
 AID/
 ├── Airport/
 │   ├── img1.jpg
@@ -62,9 +64,27 @@ AID/
 │   ├── img1.jpg
 │   └── ...
 ├── ...
-```
-Other datasets (NWPU-RESISC45, UC Merced) should follow a similar class-wise folder organization.
+Other datasets, such as NWPU-RESISC45 and UC Merced, should follow the same class-wise organization:
+NWPU-RESISC45/
+├── airplane/
+├── airport/
+├── ...
 
+UCM/
+├── agricultural/
+├── airplane/
+├── ...
+We also provide the exact split files used in our experiments. The released split files store relative image paths in the following format:
+class_name/image_name.jpg
+For example:
+{
+  "image_paths": [
+    "StorageTanks/storagetanks_254.jpg",
+    "Industrial/industrial_370.jpg",
+    "BareLand/bareland_53.jpg"
+  ]
+}
+When loading a split file, please set the dataset root to the corresponding dataset directory (e.g., AID/, NWPU-RESISC45/, or UCM/).
 ## 🚀Usage 
 🔹 Training 
  ```bash
