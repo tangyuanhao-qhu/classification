@@ -64,7 +64,9 @@ AID/
 │   ├── img1.jpg
 │   └── ...
 ├── ...
+```
 Other datasets, such as NWPU-RESISC45 and UC Merced, should follow the same class-wise organization:
+```
 NWPU-RESISC45/
 ├── airplane/
 ├── airport/
@@ -74,7 +76,9 @@ UCM/
 ├── agricultural/
 ├── airplane/
 ├── ...
+```
 We also provide the exact split files used in our experiments. The released split files store relative image paths in the following format:
+```
 class_name/image_name.jpg
 For example:
 {
@@ -84,6 +88,7 @@ For example:
     "BareLand/bareland_53.jpg"
   ]
 }
+```
 When loading a split file, please set the dataset root to the corresponding dataset directory (e.g., AID/, NWPU-RESISC45/, or UCM/).
 ## 🚀Usage 
 🔹 Training 
